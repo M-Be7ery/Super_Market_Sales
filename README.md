@@ -1,5 +1,5 @@
 # Super_Market_Sales
-Context
+## Context
 
 The growth of supermarkets in most populated cities are increasing and market competitions are also high. The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data. Predictive data analytics methods are easy to apply with this dataset.
 
@@ -39,5 +39,6 @@ Gross income: Gross income
 
 Rating: Customer stratification rating on their overall shopping experience (On a scale of 1 to 10)
 
-Tasks
+## Tasks
+
 Understanding, Cleaning, Exploration, Visualization and summerize the finding 
